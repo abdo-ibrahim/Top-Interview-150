@@ -1,2 +1,29 @@
-# Top-Interview-150
-My solutions to the Top 150 LeetCode Interview Questions – clean code, clear logic, and consistent practice.
+# Top Interview 150 - LeetCode Solutions 🚀
+
+This repository contains clean, efficient, and well-documented solutions to the **Top 150 Most Frequently Asked Coding Interview Questions** on LeetCode. The problems are grouped by topic for easy navigation and focused practice.
+
+## 📚 Topics Covered
+
+- [ ] **Array / String**
+- [ ] **Two Pointers**
+- [ ] **Sliding Window**
+- [ ] **Matrix**
+- [ ] **Hashmap**
+- [ ] **Intervals**
+- [ ] **Stack**
+- [ ] **Linked List**
+- [ ] **Binary Tree - General**
+- [ ] **Binary Tree - BFS**
+- [ ] **Binary Search Tree**
+- [ ] **Graph - General**
+- [ ] **Graph - BFS**
+- [ ] **Trie**
+- [ ] **Backtracking**
+- [ ] **Divide & Conquer**
+- [ ] **Kadane's Algorithm**
+- [ ] **Binary Search**
+- [ ] **Heap**
+- [ ] **Bit Manipulation**
+- [ ] **Math**
+- [ ] **1D Dynamic Programming**
+- [ ] **Multidimensional Dynamic Programming**
